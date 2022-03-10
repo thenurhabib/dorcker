@@ -21,7 +21,9 @@
 ```git clone https://github.com/thenurhabib/dorcker```
 
 ```cd dorcker```
+
 ```pip install -r requirements.txt```
+
 ```python3 dorcker.py```
 
 ## Demo
